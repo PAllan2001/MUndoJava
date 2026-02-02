@@ -71,5 +71,15 @@ mostrarInfo()
 
 Isso demonstra, na prática, o funcionamento do sistema e a aplicação dos conceitos de POO.
 
+
+Este projeto foi desenvolvido com fins educacionais, com o objetivo de:
+
+Aplicar herança entre classes
+
+Utilizar polimorfismo por meio da sobrescrita de métodos
+
+Garantir encapsulamento dos dados
+
+Organizar um sistema simples seguindo boas práticas de POO
 Os métodos principais do sistema também são públicos, garantindo comunicação controlada entre as classes.
 
