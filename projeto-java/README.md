@@ -1,5 +1,3 @@
-Este projeto tem como objetivo demonstrar, na prática, os conceitos fundamentais da Programação Orientada a Objetos (POO), como herança, polimorfismo, encapsulamento e uso correto de modificadores de acesso, por meio de um sistema simples de cadastro e cálculo de salários de funcionários.
-
 🏗️ Estrutura do Sistema
 
 O sistema é composto por uma classe base e classes derivadas, representando diferentes tipos de funcionários dentro de uma empresa.
